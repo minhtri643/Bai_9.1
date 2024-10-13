@@ -2,5 +2,3 @@
 pf01,Paddlefoot - The First CD
 pf02,Paddlefoot - The Second CD
 jr01,Joe Rut - Genuine Wood Grained Finish
-huynhminhtri643@gmail.com,Huỳnh Minh,Trí
-huynhminhtri643@gmail.com,Huỳnh Minh,Trí
